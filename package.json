@@ -25,7 +25,8 @@
   },
   "homepage": "https://github.com/neoshinesnh/micro-react-project#readme",
   "dependencies": {
-    "koa": "^2.3.0"
+    "koa": "^2.3.0",
+    "lodash": "^4.17.4"
   },
   "devDependencies": {
     "eslint": "^4.0.0",
